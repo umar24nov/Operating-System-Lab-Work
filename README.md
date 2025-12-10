@@ -3,4 +3,11 @@ This repository contains a selection of programs and practical exercises complet
 
 # Exercises
 
-- [First-Come, First-Served (FCFS) Scheduling Algorithm]("C:\Users\umar2\OneDrive\Operating System\fcfs.cpp")
+- [First-Come, First-Served (FCFS) Scheduling Algorithm](labsheet_01.cpp)
+- [Shortest Job First (SJF) Scheduling Algorithm](labsheet_02.cpp)
+- [Round Robin (RR) Scheduling Algorithm](labsheet_03.cpp)
+- [Priority Scheduling Algorithm](labsheet_04.cpp)
+- [Banker's Algorithm for Deadlock Avoidance and Prevention](labsheet_05.cpp)
+- [Dining-Philosopher Problems](labsheet_06a.cpp)
+- [Producer-Consumer Problems](labsheet_06b.cpp)
+
